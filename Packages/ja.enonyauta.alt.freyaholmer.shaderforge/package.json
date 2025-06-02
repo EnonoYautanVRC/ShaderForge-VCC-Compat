@@ -1,7 +1,7 @@
 {
   "name": "ja.enonyauta.alt.freyaholmer.shaderforge",
   "displayName": "Shader Forge",
-  "version": "0.0.20221219hf001",
+  "version": "0.0.20221219.hotfix.1",
   "unity": "2022.3",
   "description": "A Shader Editor for Unity",
   "author": {
